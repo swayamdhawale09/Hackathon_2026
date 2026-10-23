@@ -1,0 +1,13 @@
+[
+  {
+    "audit_id": "AUDIT-1F600BAB64",
+    "proposal_id": "PROP-046249EC",
+    "decision": "approved",
+    "actor": "lead_facility_director",
+    "notes_or_reason": "Verified zero scheduled lab occupancy. Setback confirmed.",
+    "timestamp": "2026-10-23T09:11:00.682068+00:00",
+    "metadata": {},
+    "no_actuation_guarantee": true,
+    "policy": "Human-in-the-Loop decision recorded. No autonomous actuators invoked."
+  }
+]

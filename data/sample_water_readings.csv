@@ -1,0 +1,673 @@
+timestamp,building_id,resource_type,consumption,unit,occupancy,scheduled_open,equipment_type,equipment_notes,is_injected_anomaly
+2026-10-01T00:00:00,ENG_HALL_01,water,14.81,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-01T01:00:00,ENG_HALL_01,water,14.2,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-01T02:00:00,ENG_HALL_01,water,15.68,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-01T03:00:00,ENG_HALL_01,water,16.3,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-01T04:00:00,ENG_HALL_01,water,17.77,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-01T05:00:00,ENG_HALL_01,water,15.52,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-01T06:00:00,ENG_HALL_01,water,16.98,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-01T07:00:00,ENG_HALL_01,water,45.75,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-01T08:00:00,ENG_HALL_01,water,82.19,L,49,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-01T09:00:00,ENG_HALL_01,water,193.22,L,84,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-01T10:00:00,ENG_HALL_01,water,326.6,L,117,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-01T11:00:00,ENG_HALL_01,water,335.15,L,179,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-01T12:00:00,ENG_HALL_01,water,432.43,L,189,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-01T13:00:00,ENG_HALL_01,water,411.19,L,203,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-01T14:00:00,ENG_HALL_01,water,451.69,L,200,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-01T15:00:00,ENG_HALL_01,water,387.48,L,191,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-01T16:00:00,ENG_HALL_01,water,354.05,L,175,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-01T17:00:00,ENG_HALL_01,water,279.18,L,138,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-01T18:00:00,ENG_HALL_01,water,190.76,L,74,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-01T19:00:00,ENG_HALL_01,water,55.84,L,30,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-01T20:00:00,ENG_HALL_01,water,14.48,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-01T21:00:00,ENG_HALL_01,water,16.5,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-01T22:00:00,ENG_HALL_01,water,13.48,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-01T23:00:00,ENG_HALL_01,water,17.77,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-02T00:00:00,ENG_HALL_01,water,14.89,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-02T01:00:00,ENG_HALL_01,water,13.86,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-02T02:00:00,ENG_HALL_01,water,15.64,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-02T03:00:00,ENG_HALL_01,water,16.19,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-02T04:00:00,ENG_HALL_01,water,16.29,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-02T05:00:00,ENG_HALL_01,water,14.66,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-02T06:00:00,ENG_HALL_01,water,15.3,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-02T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-02T08:00:00,ENG_HALL_01,water,108.68,L,27,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-02T09:00:00,ENG_HALL_01,water,180.95,L,79,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-02T10:00:00,ENG_HALL_01,water,234.34,L,123,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-02T11:00:00,ENG_HALL_01,water,357.24,L,154,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-02T12:00:00,ENG_HALL_01,water,392.92,L,201,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-02T13:00:00,ENG_HALL_01,water,450.34,L,223,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-02T14:00:00,ENG_HALL_01,water,426.07,L,195,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-02T15:00:00,ENG_HALL_01,water,424.07,L,180,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-02T16:00:00,ENG_HALL_01,water,357.23,L,176,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-02T17:00:00,ENG_HALL_01,water,235.68,L,130,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-02T18:00:00,ENG_HALL_01,water,170.3,L,88,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-02T19:00:00,ENG_HALL_01,water,131.58,L,35,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-02T20:00:00,ENG_HALL_01,water,14.18,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-02T21:00:00,ENG_HALL_01,water,18.3,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-02T22:00:00,ENG_HALL_01,water,18.62,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-02T23:00:00,ENG_HALL_01,water,13.84,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T00:00:00,ENG_HALL_01,water,15.3,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T01:00:00,ENG_HALL_01,water,12.71,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T02:00:00,ENG_HALL_01,water,20.0,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T03:00:00,ENG_HALL_01,water,15.01,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T04:00:00,ENG_HALL_01,water,15.1,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T05:00:00,ENG_HALL_01,water,15.05,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T06:00:00,ENG_HALL_01,water,15.95,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T07:00:00,ENG_HALL_01,water,13.26,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T08:00:00,ENG_HALL_01,water,18.99,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T09:00:00,ENG_HALL_01,water,88.18,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-03T10:00:00,ENG_HALL_01,water,84.04,L,3,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-03T11:00:00,ENG_HALL_01,water,86.98,L,5,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-03T12:00:00,ENG_HALL_01,water,97.37,L,8,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-03T13:00:00,ENG_HALL_01,water,90.21,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-03T14:00:00,ENG_HALL_01,water,93.78,L,4,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-03T15:00:00,ENG_HALL_01,water,80.65,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-03T16:00:00,ENG_HALL_01,water,103.84,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-03T17:00:00,ENG_HALL_01,water,16.01,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T18:00:00,ENG_HALL_01,water,17.9,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T19:00:00,ENG_HALL_01,water,17.97,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T20:00:00,ENG_HALL_01,water,14.38,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T21:00:00,ENG_HALL_01,water,20.57,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T22:00:00,ENG_HALL_01,water,17.73,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-03T23:00:00,ENG_HALL_01,water,16.34,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T00:00:00,ENG_HALL_01,water,15.52,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T01:00:00,ENG_HALL_01,water,18.52,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T02:00:00,ENG_HALL_01,water,13.7,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T03:00:00,ENG_HALL_01,water,13.16,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T04:00:00,ENG_HALL_01,water,16.97,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T05:00:00,ENG_HALL_01,water,15.31,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T06:00:00,ENG_HALL_01,water,18.01,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T07:00:00,ENG_HALL_01,water,14.77,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T08:00:00,ENG_HALL_01,water,16.56,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T09:00:00,ENG_HALL_01,water,92.93,L,2,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-04T10:00:00,ENG_HALL_01,water,86.43,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-04T11:00:00,ENG_HALL_01,water,78.95,L,7,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-04T12:00:00,ENG_HALL_01,water,101.03,L,8,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-04T13:00:00,ENG_HALL_01,water,84.89,L,5,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-04T14:00:00,ENG_HALL_01,water,82.31,L,3,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-04T15:00:00,ENG_HALL_01,water,83.35,L,2,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-04T16:00:00,ENG_HALL_01,water,77.15,L,7,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-04T17:00:00,ENG_HALL_01,water,16.62,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T18:00:00,ENG_HALL_01,water,22.56,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T19:00:00,ENG_HALL_01,water,16.07,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T20:00:00,ENG_HALL_01,water,14.45,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T21:00:00,ENG_HALL_01,water,15.96,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T22:00:00,ENG_HALL_01,water,13.99,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-04T23:00:00,ENG_HALL_01,water,15.45,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-05T00:00:00,ENG_HALL_01,water,17.45,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-05T01:00:00,ENG_HALL_01,water,16.06,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-05T02:00:00,ENG_HALL_01,water,16.23,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-05T03:00:00,ENG_HALL_01,water,18.47,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-05T04:00:00,ENG_HALL_01,water,16.45,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-05T05:00:00,ENG_HALL_01,water,13.96,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-05T06:00:00,ENG_HALL_01,water,14.88,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-05T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-05T08:00:00,ENG_HALL_01,water,85.09,L,46,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-05T09:00:00,ENG_HALL_01,water,220.42,L,93,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-05T10:00:00,ENG_HALL_01,water,276.67,L,127,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-05T11:00:00,ENG_HALL_01,water,339.5,L,164,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-05T12:00:00,ENG_HALL_01,water,447.04,L,192,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-05T13:00:00,ENG_HALL_01,water,452.08,L,215,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-05T14:00:00,ENG_HALL_01,water,405.93,L,203,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-05T15:00:00,ENG_HALL_01,water,435.56,L,198,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-05T16:00:00,ENG_HALL_01,water,379.96,L,179,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-05T17:00:00,ENG_HALL_01,water,316.67,L,128,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-05T18:00:00,ENG_HALL_01,water,177.03,L,88,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-05T19:00:00,ENG_HALL_01,water,74.16,L,27,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-05T20:00:00,ENG_HALL_01,water,15.76,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-05T21:00:00,ENG_HALL_01,water,17.84,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-05T22:00:00,ENG_HALL_01,water,368.48,L,0,False,PLUMBING_FIXTURE,Second-floor restroom flushometer diaphragm valve stuck open continuously.,True
+2026-10-05T23:00:00,ENG_HALL_01,water,371.47,L,0,False,PLUMBING_FIXTURE,Second-floor restroom flushometer diaphragm valve stuck open continuously.,True
+2026-10-06T00:00:00,ENG_HALL_01,water,349.04,L,0,False,PLUMBING_FIXTURE,Second-floor restroom flushometer diaphragm valve stuck open continuously.,True
+2026-10-06T01:00:00,ENG_HALL_01,water,372.97,L,0,False,PLUMBING_FIXTURE,Second-floor restroom flushometer diaphragm valve stuck open continuously.,True
+2026-10-06T02:00:00,ENG_HALL_01,water,368.67,L,0,False,PLUMBING_FIXTURE,Second-floor restroom flushometer diaphragm valve stuck open continuously.,True
+2026-10-06T03:00:00,ENG_HALL_01,water,371.94,L,0,False,PLUMBING_FIXTURE,Second-floor restroom flushometer diaphragm valve stuck open continuously.,True
+2026-10-06T04:00:00,ENG_HALL_01,water,376.48,L,0,False,PLUMBING_FIXTURE,Second-floor restroom flushometer diaphragm valve stuck open continuously.,True
+2026-10-06T05:00:00,ENG_HALL_01,water,16.54,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-06T06:00:00,ENG_HALL_01,water,16.63,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-06T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-06T08:00:00,ENG_HALL_01,water,100.91,L,24,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-06T09:00:00,ENG_HALL_01,water,179.05,L,97,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-06T10:00:00,ENG_HALL_01,water,255.73,L,142,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-06T11:00:00,ENG_HALL_01,water,369.8,L,180,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-06T12:00:00,ENG_HALL_01,water,436.7,L,178,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-06T13:00:00,ENG_HALL_01,water,447.19,L,215,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-06T14:00:00,ENG_HALL_01,water,429.99,L,196,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-06T15:00:00,ENG_HALL_01,water,393.95,L,181,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-06T16:00:00,ENG_HALL_01,water,381.31,L,173,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-06T17:00:00,ENG_HALL_01,water,231.01,L,138,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-06T18:00:00,ENG_HALL_01,water,193.49,L,83,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-06T19:00:00,ENG_HALL_01,water,56.52,L,50,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-06T20:00:00,ENG_HALL_01,water,13.31,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-06T21:00:00,ENG_HALL_01,water,17.6,L,1,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-06T22:00:00,ENG_HALL_01,water,15.41,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-06T23:00:00,ENG_HALL_01,water,17.07,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-07T00:00:00,ENG_HALL_01,water,16.08,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-07T01:00:00,ENG_HALL_01,water,16.31,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-07T02:00:00,ENG_HALL_01,water,17.1,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-07T03:00:00,ENG_HALL_01,water,12.22,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-07T04:00:00,ENG_HALL_01,water,16.31,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-07T05:00:00,ENG_HALL_01,water,17.87,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-07T06:00:00,ENG_HALL_01,water,17.95,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-07T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-07T08:00:00,ENG_HALL_01,water,81.5,L,44,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-07T09:00:00,ENG_HALL_01,water,227.43,L,91,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-07T10:00:00,ENG_HALL_01,water,247.0,L,131,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-07T11:00:00,ENG_HALL_01,water,345.74,L,165,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-07T12:00:00,ENG_HALL_01,water,389.45,L,199,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-07T13:00:00,ENG_HALL_01,water,404.94,L,211,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-07T14:00:00,ENG_HALL_01,water,428.11,L,207,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-07T15:00:00,ENG_HALL_01,water,412.91,L,185,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-07T16:00:00,ENG_HALL_01,water,311.11,L,180,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-07T17:00:00,ENG_HALL_01,water,265.54,L,126,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-07T18:00:00,ENG_HALL_01,water,180.63,L,97,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-07T19:00:00,ENG_HALL_01,water,140.71,L,26,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-07T20:00:00,ENG_HALL_01,water,16.32,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-07T21:00:00,ENG_HALL_01,water,15.48,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-07T22:00:00,ENG_HALL_01,water,15.13,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-07T23:00:00,ENG_HALL_01,water,11.84,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-08T00:00:00,ENG_HALL_01,water,18.55,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-08T01:00:00,ENG_HALL_01,water,15.37,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-08T02:00:00,ENG_HALL_01,water,15.94,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-08T03:00:00,ENG_HALL_01,water,17.19,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-08T04:00:00,ENG_HALL_01,water,19.9,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-08T05:00:00,ENG_HALL_01,water,17.86,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-08T06:00:00,ENG_HALL_01,water,15.68,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-08T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-08T08:00:00,ENG_HALL_01,water,119.44,L,47,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-08T09:00:00,ENG_HALL_01,water,194.45,L,69,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-08T10:00:00,ENG_HALL_01,water,295.56,L,115,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-08T11:00:00,ENG_HALL_01,water,298.27,L,174,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-08T12:00:00,ENG_HALL_01,water,435.77,L,199,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-08T13:00:00,ENG_HALL_01,water,393.9,L,197,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-08T14:00:00,ENG_HALL_01,water,415.18,L,195,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-08T15:00:00,ENG_HALL_01,water,390.0,L,208,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-08T16:00:00,ENG_HALL_01,water,309.98,L,174,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-08T17:00:00,ENG_HALL_01,water,270.51,L,125,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-08T18:00:00,ENG_HALL_01,water,193.01,L,82,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-08T19:00:00,ENG_HALL_01,water,113.13,L,27,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-08T20:00:00,ENG_HALL_01,water,16.5,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-08T21:00:00,ENG_HALL_01,water,17.32,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-08T22:00:00,ENG_HALL_01,water,17.65,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-08T23:00:00,ENG_HALL_01,water,18.66,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-09T00:00:00,ENG_HALL_01,water,14.2,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-09T01:00:00,ENG_HALL_01,water,15.08,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-09T02:00:00,ENG_HALL_01,water,13.79,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-09T03:00:00,ENG_HALL_01,water,12.74,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-09T04:00:00,ENG_HALL_01,water,15.4,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-09T05:00:00,ENG_HALL_01,water,14.73,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-09T06:00:00,ENG_HALL_01,water,17.37,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-09T07:00:00,ENG_HALL_01,water,67.23,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-09T08:00:00,ENG_HALL_01,water,72.31,L,37,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-09T09:00:00,ENG_HALL_01,water,151.1,L,86,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-09T10:00:00,ENG_HALL_01,water,249.71,L,128,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-09T11:00:00,ENG_HALL_01,water,356.72,L,170,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-09T12:00:00,ENG_HALL_01,water,425.05,L,197,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-09T13:00:00,ENG_HALL_01,water,429.22,L,211,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-09T14:00:00,ENG_HALL_01,water,437.69,L,221,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-09T15:00:00,ENG_HALL_01,water,400.03,L,190,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-09T16:00:00,ENG_HALL_01,water,352.11,L,159,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-09T17:00:00,ENG_HALL_01,water,304.2,L,140,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-09T18:00:00,ENG_HALL_01,water,192.23,L,82,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-09T19:00:00,ENG_HALL_01,water,59.71,L,41,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-09T20:00:00,ENG_HALL_01,water,15.79,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-09T21:00:00,ENG_HALL_01,water,13.33,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-09T22:00:00,ENG_HALL_01,water,16.1,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-09T23:00:00,ENG_HALL_01,water,15.71,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T00:00:00,ENG_HALL_01,water,14.71,L,1,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T01:00:00,ENG_HALL_01,water,13.63,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T02:00:00,ENG_HALL_01,water,17.22,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T03:00:00,ENG_HALL_01,water,16.05,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T04:00:00,ENG_HALL_01,water,14.01,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T05:00:00,ENG_HALL_01,water,15.11,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T06:00:00,ENG_HALL_01,water,15.33,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T07:00:00,ENG_HALL_01,water,17.22,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T08:00:00,ENG_HALL_01,water,17.08,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T09:00:00,ENG_HALL_01,water,86.37,L,8,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-10T10:00:00,ENG_HALL_01,water,87.3,L,7,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-10T11:00:00,ENG_HALL_01,water,84.31,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-10T12:00:00,ENG_HALL_01,water,100.99,L,8,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-10T13:00:00,ENG_HALL_01,water,75.02,L,8,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-10T14:00:00,ENG_HALL_01,water,88.34,L,6,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-10T15:00:00,ENG_HALL_01,water,94.3,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-10T16:00:00,ENG_HALL_01,water,79.67,L,5,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-10T17:00:00,ENG_HALL_01,water,18.72,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T18:00:00,ENG_HALL_01,water,16.75,L,1,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T19:00:00,ENG_HALL_01,water,11.88,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T20:00:00,ENG_HALL_01,water,18.3,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T21:00:00,ENG_HALL_01,water,16.35,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T22:00:00,ENG_HALL_01,water,15.08,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-10T23:00:00,ENG_HALL_01,water,16.97,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T00:00:00,ENG_HALL_01,water,14.63,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T01:00:00,ENG_HALL_01,water,13.34,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T02:00:00,ENG_HALL_01,water,15.79,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T03:00:00,ENG_HALL_01,water,17.35,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T04:00:00,ENG_HALL_01,water,15.67,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T05:00:00,ENG_HALL_01,water,19.49,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T06:00:00,ENG_HALL_01,water,17.02,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T07:00:00,ENG_HALL_01,water,16.72,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T08:00:00,ENG_HALL_01,water,14.75,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T09:00:00,ENG_HALL_01,water,103.94,L,8,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-11T10:00:00,ENG_HALL_01,water,87.05,L,8,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-11T11:00:00,ENG_HALL_01,water,98.32,L,6,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-11T12:00:00,ENG_HALL_01,water,81.68,L,4,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-11T13:00:00,ENG_HALL_01,water,80.51,L,2,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-11T14:00:00,ENG_HALL_01,water,88.29,L,8,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-11T15:00:00,ENG_HALL_01,water,82.46,L,4,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-11T16:00:00,ENG_HALL_01,water,99.33,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-11T17:00:00,ENG_HALL_01,water,15.75,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T18:00:00,ENG_HALL_01,water,16.76,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T19:00:00,ENG_HALL_01,water,14.74,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T20:00:00,ENG_HALL_01,water,12.2,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-11T21:00:00,ENG_HALL_01,water,584.35,L,0,False,IRRIGATION,North quad landscape irrigation solenoid valve stuck open after automatic cycle.,True
+2026-10-11T22:00:00,ENG_HALL_01,water,587.32,L,0,False,IRRIGATION,North quad landscape irrigation solenoid valve stuck open after automatic cycle.,True
+2026-10-11T23:00:00,ENG_HALL_01,water,547.34,L,0,False,IRRIGATION,North quad landscape irrigation solenoid valve stuck open after automatic cycle.,True
+2026-10-12T00:00:00,ENG_HALL_01,water,563.25,L,0,False,IRRIGATION,North quad landscape irrigation solenoid valve stuck open after automatic cycle.,True
+2026-10-12T01:00:00,ENG_HALL_01,water,581.1,L,0,False,IRRIGATION,North quad landscape irrigation solenoid valve stuck open after automatic cycle.,True
+2026-10-12T02:00:00,ENG_HALL_01,water,582.06,L,0,False,IRRIGATION,North quad landscape irrigation solenoid valve stuck open after automatic cycle.,True
+2026-10-12T03:00:00,ENG_HALL_01,water,578.74,L,0,False,IRRIGATION,North quad landscape irrigation solenoid valve stuck open after automatic cycle.,True
+2026-10-12T04:00:00,ENG_HALL_01,water,18.93,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-12T05:00:00,ENG_HALL_01,water,14.95,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-12T06:00:00,ENG_HALL_01,water,17.86,L,1,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-12T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-12T08:00:00,ENG_HALL_01,water,108.53,L,25,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-12T09:00:00,ENG_HALL_01,water,200.83,L,86,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-12T10:00:00,ENG_HALL_01,water,289.35,L,139,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-12T11:00:00,ENG_HALL_01,water,348.39,L,151,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-12T12:00:00,ENG_HALL_01,water,370.8,L,204,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-12T13:00:00,ENG_HALL_01,water,468.38,L,214,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-12T14:00:00,ENG_HALL_01,water,466.4,L,200,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-12T15:00:00,ENG_HALL_01,water,376.37,L,181,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-12T16:00:00,ENG_HALL_01,water,350.43,L,154,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-12T17:00:00,ENG_HALL_01,water,270.49,L,143,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-12T18:00:00,ENG_HALL_01,water,207.96,L,80,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-12T19:00:00,ENG_HALL_01,water,92.92,L,25,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-12T20:00:00,ENG_HALL_01,water,14.13,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-12T21:00:00,ENG_HALL_01,water,13.23,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-12T22:00:00,ENG_HALL_01,water,13.79,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-12T23:00:00,ENG_HALL_01,water,18.78,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-13T00:00:00,ENG_HALL_01,water,14.78,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-13T01:00:00,ENG_HALL_01,water,16.98,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-13T02:00:00,ENG_HALL_01,water,17.12,L,1,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-13T03:00:00,ENG_HALL_01,water,15.94,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-13T04:00:00,ENG_HALL_01,water,15.69,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-13T05:00:00,ENG_HALL_01,water,15.71,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-13T06:00:00,ENG_HALL_01,water,16.7,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-13T07:00:00,ENG_HALL_01,water,51.37,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-13T08:00:00,ENG_HALL_01,water,62.84,L,48,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-13T09:00:00,ENG_HALL_01,water,134.36,L,87,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-13T10:00:00,ENG_HALL_01,water,269.64,L,140,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-13T11:00:00,ENG_HALL_01,water,283.08,L,167,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-13T12:00:00,ENG_HALL_01,water,377.14,L,202,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-13T13:00:00,ENG_HALL_01,water,413.05,L,219,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-13T14:00:00,ENG_HALL_01,water,467.62,L,217,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-13T15:00:00,ENG_HALL_01,water,397.27,L,184,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-13T16:00:00,ENG_HALL_01,water,392.33,L,181,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-13T17:00:00,ENG_HALL_01,water,275.71,L,132,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-13T18:00:00,ENG_HALL_01,water,208.55,L,77,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-13T19:00:00,ENG_HALL_01,water,114.89,L,39,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-13T20:00:00,ENG_HALL_01,water,16.78,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-13T21:00:00,ENG_HALL_01,water,16.36,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-13T22:00:00,ENG_HALL_01,water,13.6,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-13T23:00:00,ENG_HALL_01,water,12.66,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-14T00:00:00,ENG_HALL_01,water,15.06,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-14T01:00:00,ENG_HALL_01,water,13.78,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-14T02:00:00,ENG_HALL_01,water,16.36,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-14T03:00:00,ENG_HALL_01,water,16.96,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-14T04:00:00,ENG_HALL_01,water,13.63,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-14T05:00:00,ENG_HALL_01,water,15.83,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-14T06:00:00,ENG_HALL_01,water,15.47,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-14T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-14T08:00:00,ENG_HALL_01,water,82.22,L,35,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-14T09:00:00,ENG_HALL_01,water,160.58,L,71,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-14T10:00:00,ENG_HALL_01,water,261.67,L,115,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-14T11:00:00,ENG_HALL_01,water,374.3,L,158,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-14T12:00:00,ENG_HALL_01,water,381.1,L,200,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-14T13:00:00,ENG_HALL_01,water,440.23,L,202,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-14T14:00:00,ENG_HALL_01,water,428.76,L,194,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-14T15:00:00,ENG_HALL_01,water,454.23,L,184,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-14T16:00:00,ENG_HALL_01,water,316.25,L,162,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-14T17:00:00,ENG_HALL_01,water,252.46,L,121,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-14T18:00:00,ENG_HALL_01,water,197.81,L,73,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-14T19:00:00,ENG_HALL_01,water,121.63,L,29,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-14T20:00:00,ENG_HALL_01,water,18.52,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-14T21:00:00,ENG_HALL_01,water,13.27,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-14T22:00:00,ENG_HALL_01,water,15.29,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-14T23:00:00,ENG_HALL_01,water,18.0,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-15T00:00:00,ENG_HALL_01,water,15.83,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-15T01:00:00,ENG_HALL_01,water,18.29,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-15T02:00:00,ENG_HALL_01,water,17.26,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-15T03:00:00,ENG_HALL_01,water,17.3,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-15T04:00:00,ENG_HALL_01,water,17.58,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-15T05:00:00,ENG_HALL_01,water,17.87,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-15T06:00:00,ENG_HALL_01,water,12.01,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-15T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-15T08:00:00,ENG_HALL_01,water,63.02,L,26,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-15T09:00:00,ENG_HALL_01,water,216.86,L,69,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-15T10:00:00,ENG_HALL_01,water,275.19,L,137,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-15T11:00:00,ENG_HALL_01,water,389.36,L,157,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-15T12:00:00,ENG_HALL_01,water,399.52,L,206,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-15T13:00:00,ENG_HALL_01,water,398.17,L,201,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-15T14:00:00,ENG_HALL_01,water,454.55,L,201,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-15T15:00:00,ENG_HALL_01,water,396.44,L,202,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-15T16:00:00,ENG_HALL_01,water,364.13,L,170,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-15T17:00:00,ENG_HALL_01,water,245.3,L,135,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-15T18:00:00,ENG_HALL_01,water,147.53,L,82,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-15T19:00:00,ENG_HALL_01,water,103.63,L,38,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-15T20:00:00,ENG_HALL_01,water,17.38,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-15T21:00:00,ENG_HALL_01,water,14.65,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-15T22:00:00,ENG_HALL_01,water,14.91,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-15T23:00:00,ENG_HALL_01,water,20.47,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-16T00:00:00,ENG_HALL_01,water,16.4,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-16T01:00:00,ENG_HALL_01,water,16.34,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-16T02:00:00,ENG_HALL_01,water,14.83,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-16T03:00:00,ENG_HALL_01,water,16.77,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-16T04:00:00,ENG_HALL_01,water,16.24,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-16T05:00:00,ENG_HALL_01,water,14.6,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-16T06:00:00,ENG_HALL_01,water,12.92,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-16T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-16T08:00:00,ENG_HALL_01,water,82.76,L,30,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-16T09:00:00,ENG_HALL_01,water,191.76,L,76,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-16T10:00:00,ENG_HALL_01,water,288.44,L,129,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-16T11:00:00,ENG_HALL_01,water,293.5,L,172,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-16T12:00:00,ENG_HALL_01,water,403.39,L,179,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-16T13:00:00,ENG_HALL_01,water,438.82,L,202,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-16T14:00:00,ENG_HALL_01,water,443.86,L,209,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-16T15:00:00,ENG_HALL_01,water,428.12,L,190,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-16T16:00:00,ENG_HALL_01,water,367.92,L,177,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-16T17:00:00,ENG_HALL_01,water,295.75,L,139,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-16T18:00:00,ENG_HALL_01,water,186.84,L,93,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-16T19:00:00,ENG_HALL_01,water,77.04,L,32,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-16T20:00:00,ENG_HALL_01,water,15.22,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-16T21:00:00,ENG_HALL_01,water,14.2,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-16T22:00:00,ENG_HALL_01,water,16.87,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-16T23:00:00,ENG_HALL_01,water,16.8,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T00:00:00,ENG_HALL_01,water,16.3,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T01:00:00,ENG_HALL_01,water,17.15,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T02:00:00,ENG_HALL_01,water,14.32,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T03:00:00,ENG_HALL_01,water,17.62,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T04:00:00,ENG_HALL_01,water,14.32,L,1,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T05:00:00,ENG_HALL_01,water,15.24,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T06:00:00,ENG_HALL_01,water,18.49,L,1,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T07:00:00,ENG_HALL_01,water,16.07,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T08:00:00,ENG_HALL_01,water,16.24,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T09:00:00,ENG_HALL_01,water,76.97,L,6,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-17T10:00:00,ENG_HALL_01,water,85.9,L,3,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-17T11:00:00,ENG_HALL_01,water,97.37,L,8,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-17T12:00:00,ENG_HALL_01,water,100.02,L,7,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-17T13:00:00,ENG_HALL_01,water,96.85,L,2,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-17T14:00:00,ENG_HALL_01,water,101.53,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-17T15:00:00,ENG_HALL_01,water,96.52,L,4,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-17T16:00:00,ENG_HALL_01,water,95.29,L,7,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-17T17:00:00,ENG_HALL_01,water,13.18,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T18:00:00,ENG_HALL_01,water,19.24,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T19:00:00,ENG_HALL_01,water,14.26,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T20:00:00,ENG_HALL_01,water,17.8,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T21:00:00,ENG_HALL_01,water,14.94,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T22:00:00,ENG_HALL_01,water,14.88,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-17T23:00:00,ENG_HALL_01,water,294.39,L,0,False,LAB_WATER,Chemistry research lab deionized / RO water continuous polishing bypass valve left open.,True
+2026-10-18T00:00:00,ENG_HALL_01,water,289.93,L,0,False,LAB_WATER,Chemistry research lab deionized / RO water continuous polishing bypass valve left open.,True
+2026-10-18T01:00:00,ENG_HALL_01,water,310.13,L,0,False,LAB_WATER,Chemistry research lab deionized / RO water continuous polishing bypass valve left open.,True
+2026-10-18T02:00:00,ENG_HALL_01,water,296.17,L,0,False,LAB_WATER,Chemistry research lab deionized / RO water continuous polishing bypass valve left open.,True
+2026-10-18T03:00:00,ENG_HALL_01,water,289.15,L,0,False,LAB_WATER,Chemistry research lab deionized / RO water continuous polishing bypass valve left open.,True
+2026-10-18T04:00:00,ENG_HALL_01,water,293.21,L,0,False,LAB_WATER,Chemistry research lab deionized / RO water continuous polishing bypass valve left open.,True
+2026-10-18T05:00:00,ENG_HALL_01,water,308.39,L,0,False,LAB_WATER,Chemistry research lab deionized / RO water continuous polishing bypass valve left open.,True
+2026-10-18T06:00:00,ENG_HALL_01,water,15.48,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-18T07:00:00,ENG_HALL_01,water,16.13,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-18T08:00:00,ENG_HALL_01,water,10.93,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-18T09:00:00,ENG_HALL_01,water,88.53,L,4,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-18T10:00:00,ENG_HALL_01,water,82.93,L,7,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-18T11:00:00,ENG_HALL_01,water,108.36,L,5,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-18T12:00:00,ENG_HALL_01,water,81.37,L,2,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-18T13:00:00,ENG_HALL_01,water,87.78,L,4,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-18T14:00:00,ENG_HALL_01,water,78.1,L,5,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-18T15:00:00,ENG_HALL_01,water,91.27,L,8,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-18T16:00:00,ENG_HALL_01,water,80.94,L,4,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-18T17:00:00,ENG_HALL_01,water,15.83,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-18T18:00:00,ENG_HALL_01,water,13.92,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-18T19:00:00,ENG_HALL_01,water,17.36,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-18T20:00:00,ENG_HALL_01,water,19.35,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-18T21:00:00,ENG_HALL_01,water,19.8,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-18T22:00:00,ENG_HALL_01,water,13.14,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-18T23:00:00,ENG_HALL_01,water,12.75,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-19T00:00:00,ENG_HALL_01,water,16.35,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-19T01:00:00,ENG_HALL_01,water,14.12,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-19T02:00:00,ENG_HALL_01,water,19.18,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-19T03:00:00,ENG_HALL_01,water,15.13,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-19T04:00:00,ENG_HALL_01,water,10.75,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-19T05:00:00,ENG_HALL_01,water,11.51,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-19T06:00:00,ENG_HALL_01,water,17.88,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-19T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-19T08:00:00,ENG_HALL_01,water,77.97,L,34,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-19T09:00:00,ENG_HALL_01,water,198.28,L,96,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-19T10:00:00,ENG_HALL_01,water,241.59,L,118,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-19T11:00:00,ENG_HALL_01,water,356.72,L,175,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-19T12:00:00,ENG_HALL_01,water,417.76,L,196,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-19T13:00:00,ENG_HALL_01,water,471.87,L,217,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-19T14:00:00,ENG_HALL_01,water,473.22,L,219,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-19T15:00:00,ENG_HALL_01,water,428.95,L,202,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-19T16:00:00,ENG_HALL_01,water,302.76,L,170,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-19T17:00:00,ENG_HALL_01,water,233.35,L,121,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-19T18:00:00,ENG_HALL_01,water,165.35,L,81,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-19T19:00:00,ENG_HALL_01,water,73.74,L,33,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-19T20:00:00,ENG_HALL_01,water,16.87,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-19T21:00:00,ENG_HALL_01,water,16.92,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-19T22:00:00,ENG_HALL_01,water,16.28,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-19T23:00:00,ENG_HALL_01,water,14.61,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-20T00:00:00,ENG_HALL_01,water,17.67,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-20T01:00:00,ENG_HALL_01,water,17.18,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-20T02:00:00,ENG_HALL_01,water,15.29,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-20T03:00:00,ENG_HALL_01,water,18.49,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-20T04:00:00,ENG_HALL_01,water,14.18,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-20T05:00:00,ENG_HALL_01,water,17.05,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-20T06:00:00,ENG_HALL_01,water,14.37,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-20T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-20T08:00:00,ENG_HALL_01,water,81.12,L,26,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-20T09:00:00,ENG_HALL_01,water,204.9,L,83,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-20T10:00:00,ENG_HALL_01,water,254.12,L,139,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-20T11:00:00,ENG_HALL_01,water,348.62,L,156,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-20T12:00:00,ENG_HALL_01,water,416.32,L,193,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-20T13:00:00,ENG_HALL_01,water,370.01,L,207,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-20T14:00:00,ENG_HALL_01,water,461.95,L,221,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-20T15:00:00,ENG_HALL_01,water,373.55,L,189,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-20T16:00:00,ENG_HALL_01,water,332.53,L,153,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-20T17:00:00,ENG_HALL_01,water,319.13,L,121,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-20T18:00:00,ENG_HALL_01,water,192.61,L,83,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-20T19:00:00,ENG_HALL_01,water,73.93,L,36,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-20T20:00:00,ENG_HALL_01,water,15.29,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-20T21:00:00,ENG_HALL_01,water,17.73,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-20T22:00:00,ENG_HALL_01,water,13.91,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-20T23:00:00,ENG_HALL_01,water,12.13,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-21T00:00:00,ENG_HALL_01,water,16.94,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-21T01:00:00,ENG_HALL_01,water,17.55,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-21T02:00:00,ENG_HALL_01,water,14.55,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-21T03:00:00,ENG_HALL_01,water,15.74,L,1,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-21T04:00:00,ENG_HALL_01,water,19.26,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-21T05:00:00,ENG_HALL_01,water,16.94,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-21T06:00:00,ENG_HALL_01,water,14.74,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-21T07:00:00,ENG_HALL_01,water,64.69,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-21T08:00:00,ENG_HALL_01,water,78.38,L,26,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-21T09:00:00,ENG_HALL_01,water,176.61,L,92,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-21T10:00:00,ENG_HALL_01,water,230.31,L,126,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-21T11:00:00,ENG_HALL_01,water,339.99,L,166,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-21T12:00:00,ENG_HALL_01,water,435.33,L,186,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-21T13:00:00,ENG_HALL_01,water,457.81,L,209,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-21T14:00:00,ENG_HALL_01,water,443.44,L,218,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-21T15:00:00,ENG_HALL_01,water,400.93,L,206,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-21T16:00:00,ENG_HALL_01,water,353.54,L,175,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-21T17:00:00,ENG_HALL_01,water,309.73,L,126,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-21T18:00:00,ENG_HALL_01,water,172.07,L,89,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-21T19:00:00,ENG_HALL_01,water,47.51,L,28,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-21T20:00:00,ENG_HALL_01,water,15.87,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-21T21:00:00,ENG_HALL_01,water,13.89,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-21T22:00:00,ENG_HALL_01,water,16.04,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-21T23:00:00,ENG_HALL_01,water,19.14,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-22T00:00:00,ENG_HALL_01,water,14.58,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-22T01:00:00,ENG_HALL_01,water,15.31,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-22T02:00:00,ENG_HALL_01,water,16.35,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-22T03:00:00,ENG_HALL_01,water,16.77,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-22T04:00:00,ENG_HALL_01,water,18.84,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-22T05:00:00,ENG_HALL_01,water,19.56,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-22T06:00:00,ENG_HALL_01,water,20.17,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-22T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-22T08:00:00,ENG_HALL_01,water,101.02,L,41,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-22T09:00:00,ENG_HALL_01,water,160.88,L,77,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-22T10:00:00,ENG_HALL_01,water,296.56,L,136,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-22T11:00:00,ENG_HALL_01,water,342.57,L,173,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-22T12:00:00,ENG_HALL_01,water,380.65,L,196,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-22T13:00:00,ENG_HALL_01,water,430.53,L,208,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-22T14:00:00,ENG_HALL_01,water,357.91,L,196,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-22T15:00:00,ENG_HALL_01,water,388.19,L,193,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-22T16:00:00,ENG_HALL_01,water,314.11,L,158,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-22T17:00:00,ENG_HALL_01,water,279.62,L,120,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-22T18:00:00,ENG_HALL_01,water,224.15,L,83,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-22T19:00:00,ENG_HALL_01,water,82.66,L,49,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-22T20:00:00,ENG_HALL_01,water,16.45,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-22T21:00:00,ENG_HALL_01,water,17.59,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-22T22:00:00,ENG_HALL_01,water,18.79,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-22T23:00:00,ENG_HALL_01,water,16.07,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-23T00:00:00,ENG_HALL_01,water,18.03,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-23T01:00:00,ENG_HALL_01,water,12.42,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-23T02:00:00,ENG_HALL_01,water,14.04,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-23T03:00:00,ENG_HALL_01,water,12.59,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-23T04:00:00,ENG_HALL_01,water,18.95,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-23T05:00:00,ENG_HALL_01,water,18.09,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-23T06:00:00,ENG_HALL_01,water,16.85,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-23T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-23T08:00:00,ENG_HALL_01,water,98.07,L,33,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-23T09:00:00,ENG_HALL_01,water,168.26,L,79,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-23T10:00:00,ENG_HALL_01,water,245.0,L,116,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-23T11:00:00,ENG_HALL_01,water,320.42,L,158,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-23T12:00:00,ENG_HALL_01,water,419.88,L,202,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-23T13:00:00,ENG_HALL_01,water,416.75,L,201,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-23T14:00:00,ENG_HALL_01,water,442.18,L,200,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-23T15:00:00,ENG_HALL_01,water,415.68,L,200,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-23T16:00:00,ENG_HALL_01,water,398.33,L,158,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-23T17:00:00,ENG_HALL_01,water,274.4,L,113,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-23T18:00:00,ENG_HALL_01,water,134.59,L,81,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-23T19:00:00,ENG_HALL_01,water,94.75,L,23,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-23T20:00:00,ENG_HALL_01,water,17.1,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-23T21:00:00,ENG_HALL_01,water,10.35,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-23T22:00:00,ENG_HALL_01,water,15.14,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-23T23:00:00,ENG_HALL_01,water,17.18,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T00:00:00,ENG_HALL_01,water,17.57,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T01:00:00,ENG_HALL_01,water,15.43,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T02:00:00,ENG_HALL_01,water,15.97,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T03:00:00,ENG_HALL_01,water,17.16,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T04:00:00,ENG_HALL_01,water,17.36,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T05:00:00,ENG_HALL_01,water,17.28,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T06:00:00,ENG_HALL_01,water,15.86,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T07:00:00,ENG_HALL_01,water,13.03,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T08:00:00,ENG_HALL_01,water,13.5,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T09:00:00,ENG_HALL_01,water,96.3,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-24T10:00:00,ENG_HALL_01,water,90.8,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-24T11:00:00,ENG_HALL_01,water,84.64,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-24T12:00:00,ENG_HALL_01,water,82.1,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-24T13:00:00,ENG_HALL_01,water,90.9,L,4,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-24T14:00:00,ENG_HALL_01,water,79.18,L,7,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-24T15:00:00,ENG_HALL_01,water,93.47,L,4,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-24T16:00:00,ENG_HALL_01,water,79.36,L,8,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-24T17:00:00,ENG_HALL_01,water,17.58,L,1,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T18:00:00,ENG_HALL_01,water,18.2,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T19:00:00,ENG_HALL_01,water,15.61,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T20:00:00,ENG_HALL_01,water,10.54,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T21:00:00,ENG_HALL_01,water,14.13,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-24T22:00:00,ENG_HALL_01,water,499.72,L,0,False,COOLING_TOWER,Central plant cooling tower evaporative makeup float valve jammed below cutoff.,True
+2026-10-24T23:00:00,ENG_HALL_01,water,520.69,L,0,False,COOLING_TOWER,Central plant cooling tower evaporative makeup float valve jammed below cutoff.,True
+2026-10-25T00:00:00,ENG_HALL_01,water,513.6,L,0,False,COOLING_TOWER,Central plant cooling tower evaporative makeup float valve jammed below cutoff.,True
+2026-10-25T01:00:00,ENG_HALL_01,water,501.45,L,0,False,COOLING_TOWER,Central plant cooling tower evaporative makeup float valve jammed below cutoff.,True
+2026-10-25T02:00:00,ENG_HALL_01,water,500.23,L,0,False,COOLING_TOWER,Central plant cooling tower evaporative makeup float valve jammed below cutoff.,True
+2026-10-25T03:00:00,ENG_HALL_01,water,485.46,L,0,False,COOLING_TOWER,Central plant cooling tower evaporative makeup float valve jammed below cutoff.,True
+2026-10-25T04:00:00,ENG_HALL_01,water,505.87,L,0,False,COOLING_TOWER,Central plant cooling tower evaporative makeup float valve jammed below cutoff.,True
+2026-10-25T05:00:00,ENG_HALL_01,water,15.95,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-25T06:00:00,ENG_HALL_01,water,18.68,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-25T07:00:00,ENG_HALL_01,water,13.84,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-25T08:00:00,ENG_HALL_01,water,18.07,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-25T09:00:00,ENG_HALL_01,water,91.17,L,3,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-25T10:00:00,ENG_HALL_01,water,93.24,L,3,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-25T11:00:00,ENG_HALL_01,water,96.67,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-25T12:00:00,ENG_HALL_01,water,89.38,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-25T13:00:00,ENG_HALL_01,water,72.29,L,7,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-25T14:00:00,ENG_HALL_01,water,79.84,L,4,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-25T15:00:00,ENG_HALL_01,water,100.21,L,6,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-25T16:00:00,ENG_HALL_01,water,85.23,L,9,False,DOMESTIC_PLUMBING,Weekend quiet hours; light facility usage.,False
+2026-10-25T17:00:00,ENG_HALL_01,water,18.33,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-25T18:00:00,ENG_HALL_01,water,13.37,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-25T19:00:00,ENG_HALL_01,water,15.02,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-25T20:00:00,ENG_HALL_01,water,17.21,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-25T21:00:00,ENG_HALL_01,water,19.95,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-25T22:00:00,ENG_HALL_01,water,16.27,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-25T23:00:00,ENG_HALL_01,water,15.03,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-26T00:00:00,ENG_HALL_01,water,16.84,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-26T01:00:00,ENG_HALL_01,water,15.54,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-26T02:00:00,ENG_HALL_01,water,14.71,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-26T03:00:00,ENG_HALL_01,water,13.96,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-26T04:00:00,ENG_HALL_01,water,16.19,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-26T05:00:00,ENG_HALL_01,water,16.09,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-26T06:00:00,ENG_HALL_01,water,13.0,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-26T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-26T08:00:00,ENG_HALL_01,water,80.36,L,46,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-26T09:00:00,ENG_HALL_01,water,186.45,L,75,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-26T10:00:00,ENG_HALL_01,water,258.86,L,116,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-26T11:00:00,ENG_HALL_01,water,351.57,L,170,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-26T12:00:00,ENG_HALL_01,water,394.41,L,179,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-26T13:00:00,ENG_HALL_01,water,429.46,L,212,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-26T14:00:00,ENG_HALL_01,water,374.74,L,223,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-26T15:00:00,ENG_HALL_01,water,378.01,L,195,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-26T16:00:00,ENG_HALL_01,water,334.0,L,176,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-26T17:00:00,ENG_HALL_01,water,239.81,L,123,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-26T18:00:00,ENG_HALL_01,water,149.76,L,79,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-26T19:00:00,ENG_HALL_01,water,122.0,L,24,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-26T20:00:00,ENG_HALL_01,water,14.71,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-26T21:00:00,ENG_HALL_01,water,16.14,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-26T22:00:00,ENG_HALL_01,water,15.64,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-26T23:00:00,ENG_HALL_01,water,16.75,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-27T00:00:00,ENG_HALL_01,water,14.54,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-27T01:00:00,ENG_HALL_01,water,17.75,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-27T02:00:00,ENG_HALL_01,water,15.43,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-27T03:00:00,ENG_HALL_01,water,15.78,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-27T04:00:00,ENG_HALL_01,water,15.91,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-27T05:00:00,ENG_HALL_01,water,14.36,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-27T06:00:00,ENG_HALL_01,water,19.32,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-27T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-27T08:00:00,ENG_HALL_01,water,74.83,L,43,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-27T09:00:00,ENG_HALL_01,water,155.88,L,69,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-27T10:00:00,ENG_HALL_01,water,292.14,L,125,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-27T11:00:00,ENG_HALL_01,water,417.58,L,174,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-27T12:00:00,ENG_HALL_01,water,391.81,L,185,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-27T13:00:00,ENG_HALL_01,water,400.03,L,209,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-27T14:00:00,ENG_HALL_01,water,441.09,L,208,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-27T15:00:00,ENG_HALL_01,water,407.12,L,197,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-27T16:00:00,ENG_HALL_01,water,370.43,L,169,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-27T17:00:00,ENG_HALL_01,water,211.75,L,128,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-27T18:00:00,ENG_HALL_01,water,214.6,L,96,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-27T19:00:00,ENG_HALL_01,water,53.04,L,40,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-27T20:00:00,ENG_HALL_01,water,14.73,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-27T21:00:00,ENG_HALL_01,water,15.88,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-27T22:00:00,ENG_HALL_01,water,15.12,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-27T23:00:00,ENG_HALL_01,water,14.66,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-28T00:00:00,ENG_HALL_01,water,16.07,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-28T01:00:00,ENG_HALL_01,water,13.23,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-28T02:00:00,ENG_HALL_01,water,16.06,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-28T03:00:00,ENG_HALL_01,water,10.7,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-28T04:00:00,ENG_HALL_01,water,16.25,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-28T05:00:00,ENG_HALL_01,water,18.2,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-28T06:00:00,ENG_HALL_01,water,12.53,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-28T07:00:00,ENG_HALL_01,water,40.0,L,15,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-28T08:00:00,ENG_HALL_01,water,107.3,L,51,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-28T09:00:00,ENG_HALL_01,water,163.42,L,81,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-28T10:00:00,ENG_HALL_01,water,290.95,L,142,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-28T11:00:00,ENG_HALL_01,water,357.47,L,159,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-28T12:00:00,ENG_HALL_01,water,406.36,L,195,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-28T13:00:00,ENG_HALL_01,water,468.97,L,212,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-28T14:00:00,ENG_HALL_01,water,416.56,L,209,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-28T15:00:00,ENG_HALL_01,water,367.09,L,181,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-28T16:00:00,ENG_HALL_01,water,295.93,L,154,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-28T17:00:00,ENG_HALL_01,water,261.59,L,136,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-28T18:00:00,ENG_HALL_01,water,168.2,L,75,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-28T19:00:00,ENG_HALL_01,water,107.96,L,42,True,DOMESTIC_PLUMBING,Normal operational daytime water demand.,False
+2026-10-28T20:00:00,ENG_HALL_01,water,15.53,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-28T21:00:00,ENG_HALL_01,water,17.84,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-28T22:00:00,ENG_HALL_01,water,15.16,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False
+2026-10-28T23:00:00,ENG_HALL_01,water,17.66,L,0,False,BASELOAD,Normal overnight baseload; no active fixtures.,False

@@ -1,0 +1,25 @@
+# ResourceShift AI - Core Backend Dependencies
+# Tasks 1, 2, & 3: Synthetic Data, Deterministic Detection, FastAPI Backend, FastMCP & Gemini AI
+
+# Core Numerical & Tabular Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# API Backend & Validation
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.6.0
+httpx>=0.27.0
+
+# Model Context Protocol (MCP) Server
+mcp>=1.3.0
+
+# Google Gemini AI SDK
+google-genai>=0.1.0
+google-generativeai>=0.8.0
+
+# Testing & Verification
+pytest>=7.4.0
+
+# Planned for subsequent tasks (Cloud)
+# firebase-admin>=6.4.0

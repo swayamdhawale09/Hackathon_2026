@@ -1,0 +1,673 @@
+timestamp,building_id,electricity_kwh,occupancy,scheduled_open,equipment_type,equipment_notes,is_injected_anomaly
+2026-10-01T00:00:00,ENG_HALL_01,40.38,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-01T01:00:00,ENG_HALL_01,39.51,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-01T02:00:00,ENG_HALL_01,41.56,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-01T03:00:00,ENG_HALL_01,42.48,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-01T04:00:00,ENG_HALL_01,44.35,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-01T05:00:00,ENG_HALL_01,41.45,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-01T06:00:00,ENG_HALL_01,43.22,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-01T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-01T08:00:00,ENG_HALL_01,66.59,44,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-01T09:00:00,ENG_HALL_01,112.19,78,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-01T10:00:00,ENG_HALL_01,165.3,112,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-01T11:00:00,ENG_HALL_01,177.02,176,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-01T12:00:00,ENG_HALL_01,216.9,188,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-01T13:00:00,ENG_HALL_01,213.4,203,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-01T14:00:00,ENG_HALL_01,227.22,200,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-01T15:00:00,ENG_HALL_01,202.43,190,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-01T16:00:00,ENG_HALL_01,183.65,172,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-01T17:00:00,ENG_HALL_01,150.62,133,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-01T18:00:00,ENG_HALL_01,110.88,68,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-01T19:00:00,ENG_HALL_01,60.0,25,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-01T20:00:00,ENG_HALL_01,40.02,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-01T21:00:00,ENG_HALL_01,42.51,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-01T22:00:00,ENG_HALL_01,38.81,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-01T23:00:00,ENG_HALL_01,44.3,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-02T00:00:00,ENG_HALL_01,40.55,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-02T01:00:00,ENG_HALL_01,39.16,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-02T02:00:00,ENG_HALL_01,41.62,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-02T03:00:00,ENG_HALL_01,42.18,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-02T04:00:00,ENG_HALL_01,42.32,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-02T05:00:00,ENG_HALL_01,40.28,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-02T06:00:00,ENG_HALL_01,41.18,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-02T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-02T08:00:00,ENG_HALL_01,76.04,22,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-02T09:00:00,ENG_HALL_01,107.2,73,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-02T10:00:00,ENG_HALL_01,133.41,118,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-02T11:00:00,ENG_HALL_01,183.43,151,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-02T12:00:00,ENG_HALL_01,202.56,200,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-02T13:00:00,ENG_HALL_01,225.66,223,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-02T14:00:00,ENG_HALL_01,217.25,195,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-02T15:00:00,ENG_HALL_01,213.16,179,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-02T16:00:00,ENG_HALL_01,182.61,173,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-02T17:00:00,ENG_HALL_01,135.06,125,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-02T18:00:00,ENG_HALL_01,104.34,82,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-02T19:00:00,ENG_HALL_01,82.9,30,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-02T20:00:00,ENG_HALL_01,39.59,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-02T21:00:00,ENG_HALL_01,45.05,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-02T22:00:00,ENG_HALL_01,45.46,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-02T23:00:00,ENG_HALL_01,39.19,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T00:00:00,ENG_HALL_01,41.21,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T01:00:00,ENG_HALL_01,37.76,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T02:00:00,ENG_HALL_01,47.25,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T03:00:00,ENG_HALL_01,40.64,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T04:00:00,ENG_HALL_01,40.78,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T05:00:00,ENG_HALL_01,40.8,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T06:00:00,ENG_HALL_01,41.92,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T07:00:00,ENG_HALL_01,38.52,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T08:00:00,ENG_HALL_01,45.96,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T09:00:00,ENG_HALL_01,63.98,9,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-03T10:00:00,ENG_HALL_01,60.38,3,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-03T11:00:00,ENG_HALL_01,64.73,5,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-03T12:00:00,ENG_HALL_01,65.44,8,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-03T13:00:00,ENG_HALL_01,64.11,9,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-03T14:00:00,ENG_HALL_01,64.36,4,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-03T15:00:00,ENG_HALL_01,59.64,9,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-03T16:00:00,ENG_HALL_01,69.0,9,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-03T17:00:00,ENG_HALL_01,42.0,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T18:00:00,ENG_HALL_01,44.4,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T19:00:00,ENG_HALL_01,44.52,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T20:00:00,ENG_HALL_01,39.83,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T21:00:00,ENG_HALL_01,47.92,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T22:00:00,ENG_HALL_01,44.35,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-03T23:00:00,ENG_HALL_01,42.32,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T00:00:00,ENG_HALL_01,41.4,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T01:00:00,ENG_HALL_01,45.32,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T02:00:00,ENG_HALL_01,38.87,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T03:00:00,ENG_HALL_01,38.3,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T04:00:00,ENG_HALL_01,43.33,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T05:00:00,ENG_HALL_01,41.08,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T06:00:00,ENG_HALL_01,44.58,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T07:00:00,ENG_HALL_01,40.38,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T08:00:00,ENG_HALL_01,42.72,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T09:00:00,ENG_HALL_01,64.82,2,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-04T10:00:00,ENG_HALL_01,64.26,9,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-04T11:00:00,ENG_HALL_01,59.18,7,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-04T12:00:00,ENG_HALL_01,68.09,8,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-04T13:00:00,ENG_HALL_01,60.94,5,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-04T14:00:00,ENG_HALL_01,60.57,3,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-04T15:00:00,ENG_HALL_01,60.58,2,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-04T16:00:00,ENG_HALL_01,56.96,7,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-04T17:00:00,ENG_HALL_01,42.62,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T18:00:00,ENG_HALL_01,50.57,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T19:00:00,ENG_HALL_01,42.13,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T20:00:00,ENG_HALL_01,40.03,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-04T21:00:00,ENG_HALL_01,151.4,0,False,HVAC,Chiller unit AHU-3 override set to continuous cooling at 66F overnight after scheduled maintenance.,True
+2026-10-04T22:00:00,ENG_HALL_01,153.89,0,False,HVAC,Chiller unit AHU-3 override set to continuous cooling at 66F overnight after scheduled maintenance.,True
+2026-10-04T23:00:00,ENG_HALL_01,161.14,0,False,HVAC,Chiller unit AHU-3 override set to continuous cooling at 66F overnight after scheduled maintenance.,True
+2026-10-05T00:00:00,ENG_HALL_01,158.35,0,False,HVAC,Chiller unit AHU-3 override set to continuous cooling at 66F overnight after scheduled maintenance.,True
+2026-10-05T01:00:00,ENG_HALL_01,162.58,0,False,HVAC,Chiller unit AHU-3 override set to continuous cooling at 66F overnight after scheduled maintenance.,True
+2026-10-05T02:00:00,ENG_HALL_01,154.68,0,False,HVAC,Chiller unit AHU-3 override set to continuous cooling at 66F overnight after scheduled maintenance.,True
+2026-10-05T03:00:00,ENG_HALL_01,156.05,0,False,HVAC,Chiller unit AHU-3 override set to continuous cooling at 66F overnight after scheduled maintenance.,True
+2026-10-05T04:00:00,ENG_HALL_01,39.39,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-05T05:00:00,ENG_HALL_01,41.49,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-05T06:00:00,ENG_HALL_01,41.93,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-05T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-05T08:00:00,ENG_HALL_01,67.52,36,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-05T09:00:00,ENG_HALL_01,108.46,80,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-05T10:00:00,ENG_HALL_01,152.13,115,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-05T11:00:00,ENG_HALL_01,180.74,153,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-05T12:00:00,ENG_HALL_01,216.84,198,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-05T13:00:00,ENG_HALL_01,235.03,216,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-05T14:00:00,ENG_HALL_01,234.91,203,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-05T15:00:00,ENG_HALL_01,214.23,194,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-05T16:00:00,ENG_HALL_01,176.25,164,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-05T17:00:00,ENG_HALL_01,139.58,126,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-05T18:00:00,ENG_HALL_01,117.55,83,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-05T19:00:00,ENG_HALL_01,85.74,35,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-05T20:00:00,ENG_HALL_01,39.51,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-05T21:00:00,ENG_HALL_01,44.25,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-05T22:00:00,ENG_HALL_01,38.92,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-05T23:00:00,ENG_HALL_01,38.83,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-06T00:00:00,ENG_HALL_01,43.33,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-06T01:00:00,ENG_HALL_01,39.17,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-06T02:00:00,ENG_HALL_01,45.85,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-06T03:00:00,ENG_HALL_01,42.3,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-06T04:00:00,ENG_HALL_01,44.95,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-06T05:00:00,ENG_HALL_01,42.77,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-06T06:00:00,ENG_HALL_01,42.82,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-06T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-06T08:00:00,ENG_HALL_01,72.89,19,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-06T09:00:00,ENG_HALL_01,105.88,91,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-06T10:00:00,ENG_HALL_01,143.8,137,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-06T11:00:00,ENG_HALL_01,188.79,177,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-06T12:00:00,ENG_HALL_01,217.59,177,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-06T13:00:00,ENG_HALL_01,225.99,215,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-06T14:00:00,ENG_HALL_01,222.15,196,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-06T15:00:00,ENG_HALL_01,205.69,180,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-06T16:00:00,ENG_HALL_01,192.37,170,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-06T17:00:00,ENG_HALL_01,132.83,133,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-06T18:00:00,ENG_HALL_01,110.8,77,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-06T19:00:00,ENG_HALL_01,60.0,45,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-06T20:00:00,ENG_HALL_01,38.64,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-06T21:00:00,ENG_HALL_01,44.09,1,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-06T22:00:00,ENG_HALL_01,41.28,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-06T23:00:00,ENG_HALL_01,43.4,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-07T00:00:00,ENG_HALL_01,42.12,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-07T01:00:00,ENG_HALL_01,42.45,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-07T02:00:00,ENG_HALL_01,43.48,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-07T03:00:00,ENG_HALL_01,37.09,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-07T04:00:00,ENG_HALL_01,42.48,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-07T05:00:00,ENG_HALL_01,44.48,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-07T06:00:00,ENG_HALL_01,44.6,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-07T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-07T08:00:00,ENG_HALL_01,65.85,39,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-07T09:00:00,ENG_HALL_01,123.44,85,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-07T10:00:00,ENG_HALL_01,139.79,126,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-07T11:00:00,ENG_HALL_01,181.39,162,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-07T12:00:00,ENG_HALL_01,203.5,198,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-07T13:00:00,ENG_HALL_01,210.94,211,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-07T14:00:00,ENG_HALL_01,219.42,207,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-07T15:00:00,ENG_HALL_01,210.33,184,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-07T16:00:00,ENG_HALL_01,169.4,177,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-07T17:00:00,ENG_HALL_01,146.47,121,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-07T18:00:00,ENG_HALL_01,108.0,91,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-07T19:00:00,ENG_HALL_01,86.18,21,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-07T20:00:00,ENG_HALL_01,42.42,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-07T21:00:00,ENG_HALL_01,41.4,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-07T22:00:00,ENG_HALL_01,40.8,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-07T23:00:00,ENG_HALL_01,36.66,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-08T00:00:00,ENG_HALL_01,45.43,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-08T01:00:00,ENG_HALL_01,41.25,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-08T02:00:00,ENG_HALL_01,41.94,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-08T03:00:00,ENG_HALL_01,43.62,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-08T04:00:00,ENG_HALL_01,47.2,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-08T05:00:00,ENG_HALL_01,44.33,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-08T06:00:00,ENG_HALL_01,41.57,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-08T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-08T08:00:00,ENG_HALL_01,79.73,42,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-08T09:00:00,ENG_HALL_01,111.67,63,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-08T10:00:00,ENG_HALL_01,154.54,110,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-08T11:00:00,ENG_HALL_01,165.3,171,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-08T12:00:00,ENG_HALL_01,215.61,198,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-08T13:00:00,ENG_HALL_01,207.2,197,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-08T14:00:00,ENG_HALL_01,211.5,195,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-08T15:00:00,ENG_HALL_01,203.12,207,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-08T16:00:00,ENG_HALL_01,169.94,171,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-08T17:00:00,ENG_HALL_01,146.98,120,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-08T18:00:00,ENG_HALL_01,112.41,76,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-08T19:00:00,ENG_HALL_01,76.2,22,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-08T20:00:00,ENG_HALL_01,42.5,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-08T21:00:00,ENG_HALL_01,43.62,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-08T22:00:00,ENG_HALL_01,44.25,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-08T23:00:00,ENG_HALL_01,45.52,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-09T00:00:00,ENG_HALL_01,39.69,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-09T01:00:00,ENG_HALL_01,40.93,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-09T02:00:00,ENG_HALL_01,38.93,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-09T03:00:00,ENG_HALL_01,37.82,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-09T04:00:00,ENG_HALL_01,41.22,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-09T05:00:00,ENG_HALL_01,40.29,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-09T06:00:00,ENG_HALL_01,43.76,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-09T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-09T08:00:00,ENG_HALL_01,63.56,32,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-09T09:00:00,ENG_HALL_01,96.97,80,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-09T10:00:00,ENG_HALL_01,139.64,123,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-09T11:00:00,ENG_HALL_01,184.3,167,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-09T12:00:00,ENG_HALL_01,213.0,196,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-09T13:00:00,ENG_HALL_01,220.13,211,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-09T14:00:00,ENG_HALL_01,222.62,221,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-09T15:00:00,ENG_HALL_01,204.23,189,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-09T16:00:00,ENG_HALL_01,181.9,156,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-09T17:00:00,ENG_HALL_01,156.03,135,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-09T18:00:00,ENG_HALL_01,111.0,76,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-09T19:00:00,ENG_HALL_01,60.0,36,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-09T20:00:00,ENG_HALL_01,41.82,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-09T21:00:00,ENG_HALL_01,38.56,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-09T22:00:00,ENG_HALL_01,143.35,0,False,LAB_EQUIPMENT,Robotics & Materials Lab vacuum furnace left energized in unmonitored standby bake cycle.,True
+2026-10-09T23:00:00,ENG_HALL_01,130.14,0,False,LAB_EQUIPMENT,Robotics & Materials Lab vacuum furnace left energized in unmonitored standby bake cycle.,True
+2026-10-10T00:00:00,ENG_HALL_01,140.51,0,False,LAB_EQUIPMENT,Robotics & Materials Lab vacuum furnace left energized in unmonitored standby bake cycle.,True
+2026-10-10T01:00:00,ENG_HALL_01,136.45,0,False,LAB_EQUIPMENT,Robotics & Materials Lab vacuum furnace left energized in unmonitored standby bake cycle.,True
+2026-10-10T02:00:00,ENG_HALL_01,133.44,0,False,LAB_EQUIPMENT,Robotics & Materials Lab vacuum furnace left energized in unmonitored standby bake cycle.,True
+2026-10-10T03:00:00,ENG_HALL_01,130.76,0,False,LAB_EQUIPMENT,Robotics & Materials Lab vacuum furnace left energized in unmonitored standby bake cycle.,True
+2026-10-10T04:00:00,ENG_HALL_01,138.55,0,False,LAB_EQUIPMENT,Robotics & Materials Lab vacuum furnace left energized in unmonitored standby bake cycle.,True
+2026-10-10T05:00:00,ENG_HALL_01,134.59,0,False,LAB_EQUIPMENT,Robotics & Materials Lab vacuum furnace left energized in unmonitored standby bake cycle.,True
+2026-10-10T06:00:00,ENG_HALL_01,42.59,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-10T07:00:00,ENG_HALL_01,41.64,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-10T08:00:00,ENG_HALL_01,41.96,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-10T09:00:00,ENG_HALL_01,74.06,8,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-10T10:00:00,ENG_HALL_01,57.58,5,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-10T11:00:00,ENG_HALL_01,63.0,5,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-10T12:00:00,ENG_HALL_01,64.07,7,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-10T13:00:00,ENG_HALL_01,63.86,4,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-10T14:00:00,ENG_HALL_01,67.59,8,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-10T15:00:00,ENG_HALL_01,65.63,5,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-10T16:00:00,ENG_HALL_01,61.9,5,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-10T17:00:00,ENG_HALL_01,44.42,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-10T18:00:00,ENG_HALL_01,41.52,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-10T19:00:00,ENG_HALL_01,41.05,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-10T20:00:00,ENG_HALL_01,38.13,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-10T21:00:00,ENG_HALL_01,39.96,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-10T22:00:00,ENG_HALL_01,36.21,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-10T23:00:00,ENG_HALL_01,36.09,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T00:00:00,ENG_HALL_01,40.98,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T01:00:00,ENG_HALL_01,43.95,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T02:00:00,ENG_HALL_01,43.42,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T03:00:00,ENG_HALL_01,43.38,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T04:00:00,ENG_HALL_01,42.83,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T05:00:00,ENG_HALL_01,40.38,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T06:00:00,ENG_HALL_01,46.18,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T07:00:00,ENG_HALL_01,41.99,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T08:00:00,ENG_HALL_01,38.92,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T09:00:00,ENG_HALL_01,55.87,9,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-11T10:00:00,ENG_HALL_01,59.81,4,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-11T11:00:00,ENG_HALL_01,64.93,6,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-11T12:00:00,ENG_HALL_01,62.28,8,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-11T13:00:00,ENG_HALL_01,59.8,2,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-11T14:00:00,ENG_HALL_01,64.17,3,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-11T15:00:00,ENG_HALL_01,66.08,5,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-11T16:00:00,ENG_HALL_01,62.41,2,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-11T17:00:00,ENG_HALL_01,37.05,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T18:00:00,ENG_HALL_01,39.43,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T19:00:00,ENG_HALL_01,39.13,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T20:00:00,ENG_HALL_01,43.54,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T21:00:00,ENG_HALL_01,40.87,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T22:00:00,ENG_HALL_01,42.79,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-11T23:00:00,ENG_HALL_01,42.27,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-12T00:00:00,ENG_HALL_01,44.78,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-12T01:00:00,ENG_HALL_01,40.63,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-12T02:00:00,ENG_HALL_01,36.75,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-12T03:00:00,ENG_HALL_01,46.99,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-12T04:00:00,ENG_HALL_01,39.66,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-12T05:00:00,ENG_HALL_01,39.52,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-12T06:00:00,ENG_HALL_01,46.95,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-12T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-12T08:00:00,ENG_HALL_01,80.71,32,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-12T09:00:00,ENG_HALL_01,114.68,74,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-12T10:00:00,ENG_HALL_01,133.76,119,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-12T11:00:00,ENG_HALL_01,170.65,148,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-12T12:00:00,ENG_HALL_01,223.3,202,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-12T13:00:00,ENG_HALL_01,231.48,202,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-12T14:00:00,ENG_HALL_01,221.94,213,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-12T15:00:00,ENG_HALL_01,208.02,198,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-12T16:00:00,ENG_HALL_01,179.36,176,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-12T17:00:00,ENG_HALL_01,157.37,108,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-12T18:00:00,ENG_HALL_01,110.48,64,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-12T19:00:00,ENG_HALL_01,61.09,44,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-12T20:00:00,ENG_HALL_01,40.28,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-12T21:00:00,ENG_HALL_01,43.55,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-12T22:00:00,ENG_HALL_01,43.81,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-12T23:00:00,ENG_HALL_01,43.62,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-13T00:00:00,ENG_HALL_01,41.06,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-13T01:00:00,ENG_HALL_01,46.13,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-13T02:00:00,ENG_HALL_01,39.5,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-13T03:00:00,ENG_HALL_01,40.54,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-13T04:00:00,ENG_HALL_01,39.99,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-13T05:00:00,ENG_HALL_01,41.89,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-13T06:00:00,ENG_HALL_01,39.33,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-13T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-13T08:00:00,ENG_HALL_01,70.34,39,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-13T09:00:00,ENG_HALL_01,118.01,82,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-13T10:00:00,ENG_HALL_01,160.61,130,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-13T11:00:00,ENG_HALL_01,177.0,169,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-13T12:00:00,ENG_HALL_01,202.99,203,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-13T13:00:00,ENG_HALL_01,237.14,207,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-13T14:00:00,ENG_HALL_01,223.44,193,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-13T15:00:00,ENG_HALL_01,208.83,196,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-13T16:00:00,ENG_HALL_01,207.71,160,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-13T17:00:00,ENG_HALL_01,143.14,108,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-13T18:00:00,ENG_HALL_01,104.01,80,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-13T19:00:00,ENG_HALL_01,71.66,28,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-13T20:00:00,ENG_HALL_01,42.69,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-13T21:00:00,ENG_HALL_01,40.43,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-13T22:00:00,ENG_HALL_01,39.72,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-13T23:00:00,ENG_HALL_01,42.62,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-14T00:00:00,ENG_HALL_01,40.22,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-14T01:00:00,ENG_HALL_01,40.4,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-14T02:00:00,ENG_HALL_01,38.31,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-14T03:00:00,ENG_HALL_01,41.54,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-14T04:00:00,ENG_HALL_01,42.41,1,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-14T05:00:00,ENG_HALL_01,37.99,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-14T06:00:00,ENG_HALL_01,44.92,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-14T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-14T08:00:00,ENG_HALL_01,64.34,33,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-14T09:00:00,ENG_HALL_01,106.03,67,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-14T10:00:00,ENG_HALL_01,143.69,124,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-14T11:00:00,ENG_HALL_01,170.16,170,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-14T12:00:00,ENG_HALL_01,208.35,177,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-14T13:00:00,ENG_HALL_01,217.7,216,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-14T14:00:00,ENG_HALL_01,221.58,215,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-14T15:00:00,ENG_HALL_01,198.44,180,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-14T16:00:00,ENG_HALL_01,183.78,149,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-14T17:00:00,ENG_HALL_01,154.49,121,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-14T18:00:00,ENG_HALL_01,121.7,78,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-14T19:00:00,ENG_HALL_01,60.0,33,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-14T20:00:00,ENG_HALL_01,106.36,0,False,LIGHTING,Auditorium 201 theatrical spotlights and second-floor corridor lighting banked at 100% capacity.,True
+2026-10-14T21:00:00,ENG_HALL_01,114.55,0,False,LIGHTING,Auditorium 201 theatrical spotlights and second-floor corridor lighting banked at 100% capacity.,True
+2026-10-14T22:00:00,ENG_HALL_01,110.92,0,False,LIGHTING,Auditorium 201 theatrical spotlights and second-floor corridor lighting banked at 100% capacity.,True
+2026-10-14T23:00:00,ENG_HALL_01,116.52,0,False,LIGHTING,Auditorium 201 theatrical spotlights and second-floor corridor lighting banked at 100% capacity.,True
+2026-10-15T00:00:00,ENG_HALL_01,110.26,0,False,LIGHTING,Auditorium 201 theatrical spotlights and second-floor corridor lighting banked at 100% capacity.,True
+2026-10-15T01:00:00,ENG_HALL_01,115.09,0,False,LIGHTING,Auditorium 201 theatrical spotlights and second-floor corridor lighting banked at 100% capacity.,True
+2026-10-15T02:00:00,ENG_HALL_01,102.4,0,False,LIGHTING,Auditorium 201 theatrical spotlights and second-floor corridor lighting banked at 100% capacity.,True
+2026-10-15T03:00:00,ENG_HALL_01,104.41,0,False,LIGHTING,Auditorium 201 theatrical spotlights and second-floor corridor lighting banked at 100% capacity.,True
+2026-10-15T04:00:00,ENG_HALL_01,111.82,0,False,LIGHTING,Auditorium 201 theatrical spotlights and second-floor corridor lighting banked at 100% capacity.,True
+2026-10-15T05:00:00,ENG_HALL_01,114.78,0,False,LIGHTING,Auditorium 201 theatrical spotlights and second-floor corridor lighting banked at 100% capacity.,True
+2026-10-15T06:00:00,ENG_HALL_01,112.41,0,False,LIGHTING,Auditorium 201 theatrical spotlights and second-floor corridor lighting banked at 100% capacity.,True
+2026-10-15T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-15T08:00:00,ENG_HALL_01,76.33,25,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-15T09:00:00,ENG_HALL_01,106.26,86,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-15T10:00:00,ENG_HALL_01,152.79,127,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-15T11:00:00,ENG_HALL_01,171.9,170,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-15T12:00:00,ENG_HALL_01,194.99,191,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-15T13:00:00,ENG_HALL_01,224.67,209,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-15T14:00:00,ENG_HALL_01,226.52,203,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-15T15:00:00,ENG_HALL_01,212.56,207,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-15T16:00:00,ENG_HALL_01,179.8,161,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-15T17:00:00,ENG_HALL_01,153.76,119,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-15T18:00:00,ENG_HALL_01,121.68,91,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-15T19:00:00,ENG_HALL_01,72.71,21,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-15T20:00:00,ENG_HALL_01,42.44,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-15T21:00:00,ENG_HALL_01,40.45,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-15T22:00:00,ENG_HALL_01,42.96,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-15T23:00:00,ENG_HALL_01,42.26,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-16T00:00:00,ENG_HALL_01,40.1,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-16T01:00:00,ENG_HALL_01,37.94,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-16T02:00:00,ENG_HALL_01,40.57,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-16T03:00:00,ENG_HALL_01,42.73,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-16T04:00:00,ENG_HALL_01,43.29,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-16T05:00:00,ENG_HALL_01,38.11,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-16T06:00:00,ENG_HALL_01,42.04,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-16T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-16T08:00:00,ENG_HALL_01,73.18,33,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-16T09:00:00,ENG_HALL_01,116.36,74,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-16T10:00:00,ENG_HALL_01,153.13,134,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-16T11:00:00,ENG_HALL_01,188.09,174,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-16T12:00:00,ENG_HALL_01,208.81,202,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-16T13:00:00,ENG_HALL_01,214.71,203,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-16T14:00:00,ENG_HALL_01,213.46,222,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-16T15:00:00,ENG_HALL_01,203.45,207,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-16T16:00:00,ENG_HALL_01,201.45,167,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-16T17:00:00,ENG_HALL_01,150.93,122,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-16T18:00:00,ENG_HALL_01,110.03,76,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-16T19:00:00,ENG_HALL_01,81.45,35,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-16T20:00:00,ENG_HALL_01,43.58,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-16T21:00:00,ENG_HALL_01,39.77,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-16T22:00:00,ENG_HALL_01,44.01,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-16T23:00:00,ENG_HALL_01,39.87,1,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T00:00:00,ENG_HALL_01,41.08,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T01:00:00,ENG_HALL_01,45.04,1,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T02:00:00,ENG_HALL_01,42.06,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T03:00:00,ENG_HALL_01,42.31,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T04:00:00,ENG_HALL_01,36.82,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T05:00:00,ENG_HALL_01,40.39,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T06:00:00,ENG_HALL_01,43.55,1,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T07:00:00,ENG_HALL_01,47.0,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T08:00:00,ENG_HALL_01,45.94,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T09:00:00,ENG_HALL_01,66.72,4,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-17T10:00:00,ENG_HALL_01,64.46,7,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-17T11:00:00,ENG_HALL_01,59.58,9,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-17T12:00:00,ENG_HALL_01,69.72,5,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-17T13:00:00,ENG_HALL_01,60.14,3,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-17T14:00:00,ENG_HALL_01,64.39,9,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-17T15:00:00,ENG_HALL_01,64.62,4,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-17T16:00:00,ENG_HALL_01,63.87,6,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-17T17:00:00,ENG_HALL_01,40.51,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T18:00:00,ENG_HALL_01,41.18,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T19:00:00,ENG_HALL_01,41.36,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T20:00:00,ENG_HALL_01,40.13,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T21:00:00,ENG_HALL_01,43.74,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T22:00:00,ENG_HALL_01,42.17,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-17T23:00:00,ENG_HALL_01,45.44,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T00:00:00,ENG_HALL_01,37.91,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T01:00:00,ENG_HALL_01,43.98,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T02:00:00,ENG_HALL_01,45.59,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T03:00:00,ENG_HALL_01,43.99,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T04:00:00,ENG_HALL_01,43.27,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T05:00:00,ENG_HALL_01,39.31,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T06:00:00,ENG_HALL_01,39.49,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T07:00:00,ENG_HALL_01,37.77,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T08:00:00,ENG_HALL_01,49.29,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T09:00:00,ENG_HALL_01,60.01,4,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-18T10:00:00,ENG_HALL_01,60.83,5,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-18T11:00:00,ENG_HALL_01,59.07,4,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-18T12:00:00,ENG_HALL_01,65.32,6,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-18T13:00:00,ENG_HALL_01,60.66,5,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-18T14:00:00,ENG_HALL_01,64.7,6,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-18T15:00:00,ENG_HALL_01,59.85,6,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-18T16:00:00,ENG_HALL_01,66.39,9,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-18T17:00:00,ENG_HALL_01,44.85,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T18:00:00,ENG_HALL_01,43.12,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T19:00:00,ENG_HALL_01,42.48,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T20:00:00,ENG_HALL_01,42.11,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T21:00:00,ENG_HALL_01,42.11,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T22:00:00,ENG_HALL_01,39.68,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-18T23:00:00,ENG_HALL_01,132.9,0,False,HVAC,Cooling tower auxiliary circulation pump relay contactor mechanically stuck in closed position.,True
+2026-10-19T00:00:00,ENG_HALL_01,117.94,0,False,HVAC,Cooling tower auxiliary circulation pump relay contactor mechanically stuck in closed position.,True
+2026-10-19T01:00:00,ENG_HALL_01,117.73,0,False,HVAC,Cooling tower auxiliary circulation pump relay contactor mechanically stuck in closed position.,True
+2026-10-19T02:00:00,ENG_HALL_01,130.13,0,False,HVAC,Cooling tower auxiliary circulation pump relay contactor mechanically stuck in closed position.,True
+2026-10-19T03:00:00,ENG_HALL_01,128.56,0,False,HVAC,Cooling tower auxiliary circulation pump relay contactor mechanically stuck in closed position.,True
+2026-10-19T04:00:00,ENG_HALL_01,125.61,0,False,HVAC,Cooling tower auxiliary circulation pump relay contactor mechanically stuck in closed position.,True
+2026-10-19T05:00:00,ENG_HALL_01,116.09,0,False,HVAC,Cooling tower auxiliary circulation pump relay contactor mechanically stuck in closed position.,True
+2026-10-19T06:00:00,ENG_HALL_01,127.86,0,False,HVAC,Cooling tower auxiliary circulation pump relay contactor mechanically stuck in closed position.,True
+2026-10-19T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-19T08:00:00,ENG_HALL_01,63.96,20,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-19T09:00:00,ENG_HALL_01,106.75,75,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-19T10:00:00,ENG_HALL_01,144.33,121,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-19T11:00:00,ENG_HALL_01,177.64,171,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-19T12:00:00,ENG_HALL_01,220.53,187,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-19T13:00:00,ENG_HALL_01,221.52,203,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-19T14:00:00,ENG_HALL_01,225.55,210,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-19T15:00:00,ENG_HALL_01,220.8,186,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-19T16:00:00,ENG_HALL_01,184.01,153,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-19T17:00:00,ENG_HALL_01,145.14,131,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-19T18:00:00,ENG_HALL_01,101.61,85,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-19T19:00:00,ENG_HALL_01,76.25,20,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-19T20:00:00,ENG_HALL_01,47.2,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-19T21:00:00,ENG_HALL_01,41.31,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-19T22:00:00,ENG_HALL_01,44.34,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-19T23:00:00,ENG_HALL_01,44.06,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-20T00:00:00,ENG_HALL_01,40.57,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-20T01:00:00,ENG_HALL_01,39.72,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-20T02:00:00,ENG_HALL_01,46.65,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-20T03:00:00,ENG_HALL_01,40.55,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-20T04:00:00,ENG_HALL_01,44.08,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-20T05:00:00,ENG_HALL_01,38.69,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-20T06:00:00,ENG_HALL_01,37.91,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-20T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-20T08:00:00,ENG_HALL_01,60.0,45,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-20T09:00:00,ENG_HALL_01,101.52,75,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-20T10:00:00,ENG_HALL_01,152.19,114,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-20T11:00:00,ENG_HALL_01,186.86,173,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-20T12:00:00,ENG_HALL_01,208.08,206,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-20T13:00:00,ENG_HALL_01,227.59,209,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-20T14:00:00,ENG_HALL_01,214.67,196,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-20T15:00:00,ENG_HALL_01,206.43,188,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-20T16:00:00,ENG_HALL_01,185.52,176,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-20T17:00:00,ENG_HALL_01,153.27,114,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-20T18:00:00,ENG_HALL_01,97.05,77,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-20T19:00:00,ENG_HALL_01,73.75,46,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-20T20:00:00,ENG_HALL_01,45.73,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-20T21:00:00,ENG_HALL_01,45.64,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-20T22:00:00,ENG_HALL_01,43.52,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-20T23:00:00,ENG_HALL_01,45.07,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-21T00:00:00,ENG_HALL_01,42.73,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-21T01:00:00,ENG_HALL_01,42.75,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-21T02:00:00,ENG_HALL_01,46.35,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-21T03:00:00,ENG_HALL_01,40.42,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-21T04:00:00,ENG_HALL_01,40.86,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-21T05:00:00,ENG_HALL_01,41.12,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-21T06:00:00,ENG_HALL_01,40.31,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-21T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-21T08:00:00,ENG_HALL_01,74.53,42,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-21T09:00:00,ENG_HALL_01,105.87,90,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-21T10:00:00,ENG_HALL_01,149.77,132,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-21T11:00:00,ENG_HALL_01,193.95,161,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-21T12:00:00,ENG_HALL_01,200.1,198,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-21T13:00:00,ENG_HALL_01,206.03,199,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-21T14:00:00,ENG_HALL_01,213.48,205,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-21T15:00:00,ENG_HALL_01,200.12,183,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-21T16:00:00,ENG_HALL_01,179.6,176,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-21T17:00:00,ENG_HALL_01,133.25,116,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-21T18:00:00,ENG_HALL_01,107.91,92,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-21T19:00:00,ENG_HALL_01,60.0,18,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-21T20:00:00,ENG_HALL_01,41.11,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-21T21:00:00,ENG_HALL_01,42.52,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-21T22:00:00,ENG_HALL_01,42.96,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-21T23:00:00,ENG_HALL_01,45.83,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-22T00:00:00,ENG_HALL_01,46.63,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-22T01:00:00,ENG_HALL_01,47.33,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-22T02:00:00,ENG_HALL_01,41.61,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-22T03:00:00,ENG_HALL_01,45.39,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-22T04:00:00,ENG_HALL_01,42.28,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-22T05:00:00,ENG_HALL_01,44.47,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-22T06:00:00,ENG_HALL_01,38.87,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-22T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-22T08:00:00,ENG_HALL_01,60.0,20,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-22T09:00:00,ENG_HALL_01,104.83,77,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-22T10:00:00,ENG_HALL_01,136.94,115,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-22T11:00:00,ENG_HALL_01,183.83,155,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-22T12:00:00,ENG_HALL_01,222.56,192,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-22T13:00:00,ENG_HALL_01,216.8,220,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-22T14:00:00,ENG_HALL_01,220.22,216,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-22T15:00:00,ENG_HALL_01,208.23,201,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-22T16:00:00,ENG_HALL_01,185.9,157,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-22T17:00:00,ENG_HALL_01,155.76,118,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-22T18:00:00,ENG_HALL_01,100.55,80,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-22T19:00:00,ENG_HALL_01,71.86,30,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-22T20:00:00,ENG_HALL_01,37.35,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-22T21:00:00,ENG_HALL_01,149.51,0,False,LAB_EQUIPMENT,High-performance computing cluster running unmanaged distributed simulations overnight without eco-governor.,True
+2026-10-22T22:00:00,ENG_HALL_01,156.61,0,False,LAB_EQUIPMENT,High-performance computing cluster running unmanaged distributed simulations overnight without eco-governor.,True
+2026-10-22T23:00:00,ENG_HALL_01,150.83,0,False,LAB_EQUIPMENT,High-performance computing cluster running unmanaged distributed simulations overnight without eco-governor.,True
+2026-10-23T00:00:00,ENG_HALL_01,156.18,0,False,LAB_EQUIPMENT,High-performance computing cluster running unmanaged distributed simulations overnight without eco-governor.,True
+2026-10-23T01:00:00,ENG_HALL_01,153.86,0,False,LAB_EQUIPMENT,High-performance computing cluster running unmanaged distributed simulations overnight without eco-governor.,True
+2026-10-23T02:00:00,ENG_HALL_01,148.55,0,False,LAB_EQUIPMENT,High-performance computing cluster running unmanaged distributed simulations overnight without eco-governor.,True
+2026-10-23T03:00:00,ENG_HALL_01,150.98,0,False,LAB_EQUIPMENT,High-performance computing cluster running unmanaged distributed simulations overnight without eco-governor.,True
+2026-10-23T04:00:00,ENG_HALL_01,149.43,0,False,LAB_EQUIPMENT,High-performance computing cluster running unmanaged distributed simulations overnight without eco-governor.,True
+2026-10-23T05:00:00,ENG_HALL_01,43.71,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-23T06:00:00,ENG_HALL_01,42.68,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-23T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-23T08:00:00,ENG_HALL_01,74.54,25,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-23T09:00:00,ENG_HALL_01,93.83,89,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-23T10:00:00,ENG_HALL_01,142.12,115,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-23T11:00:00,ENG_HALL_01,181.17,148,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-23T12:00:00,ENG_HALL_01,183.04,203,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-23T13:00:00,ENG_HALL_01,218.44,208,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-23T14:00:00,ENG_HALL_01,231.5,217,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-23T15:00:00,ENG_HALL_01,189.61,191,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-23T16:00:00,ENG_HALL_01,185.04,163,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-23T17:00:00,ENG_HALL_01,139.68,138,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-23T18:00:00,ENG_HALL_01,113.02,65,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-23T19:00:00,ENG_HALL_01,60.08,37,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-23T20:00:00,ENG_HALL_01,43.29,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-23T21:00:00,ENG_HALL_01,44.57,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-23T22:00:00,ENG_HALL_01,37.72,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-23T23:00:00,ENG_HALL_01,39.46,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T00:00:00,ENG_HALL_01,40.4,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T01:00:00,ENG_HALL_01,39.6,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T02:00:00,ENG_HALL_01,42.92,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T03:00:00,ENG_HALL_01,40.58,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T04:00:00,ENG_HALL_01,39.32,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T05:00:00,ENG_HALL_01,43.7,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T06:00:00,ENG_HALL_01,41.6,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T07:00:00,ENG_HALL_01,39.07,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T08:00:00,ENG_HALL_01,44.1,1,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T09:00:00,ENG_HALL_01,68.09,8,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-24T10:00:00,ENG_HALL_01,65.42,8,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-24T11:00:00,ENG_HALL_01,58.96,2,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-24T12:00:00,ENG_HALL_01,63.31,3,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-24T13:00:00,ENG_HALL_01,59.16,3,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-24T14:00:00,ENG_HALL_01,61.36,7,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-24T15:00:00,ENG_HALL_01,65.92,7,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-24T16:00:00,ENG_HALL_01,65.2,2,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-24T17:00:00,ENG_HALL_01,40.29,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T18:00:00,ENG_HALL_01,41.05,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T19:00:00,ENG_HALL_01,45.05,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T20:00:00,ENG_HALL_01,40.91,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T21:00:00,ENG_HALL_01,41.54,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T22:00:00,ENG_HALL_01,42.05,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-24T23:00:00,ENG_HALL_01,39.98,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T00:00:00,ENG_HALL_01,42.96,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T01:00:00,ENG_HALL_01,44.15,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T02:00:00,ENG_HALL_01,41.66,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T03:00:00,ENG_HALL_01,41.18,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T04:00:00,ENG_HALL_01,42.18,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T05:00:00,ENG_HALL_01,40.1,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T06:00:00,ENG_HALL_01,41.6,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T07:00:00,ENG_HALL_01,37.93,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T08:00:00,ENG_HALL_01,39.87,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T09:00:00,ENG_HALL_01,65.22,3,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-25T10:00:00,ENG_HALL_01,61.44,8,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-25T11:00:00,ENG_HALL_01,63.65,3,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-25T12:00:00,ENG_HALL_01,58.94,4,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-25T13:00:00,ENG_HALL_01,63.62,8,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-25T14:00:00,ENG_HALL_01,71.35,5,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-25T15:00:00,ENG_HALL_01,69.24,4,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-25T16:00:00,ENG_HALL_01,63.7,6,False,BASELOAD,Weekend quiet hours; library/study access.,False
+2026-10-25T17:00:00,ENG_HALL_01,42.57,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T18:00:00,ENG_HALL_01,38.67,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T19:00:00,ENG_HALL_01,42.22,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T20:00:00,ENG_HALL_01,44.21,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T21:00:00,ENG_HALL_01,38.58,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T22:00:00,ENG_HALL_01,43.65,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-25T23:00:00,ENG_HALL_01,41.88,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-26T00:00:00,ENG_HALL_01,43.53,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-26T01:00:00,ENG_HALL_01,36.88,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-26T02:00:00,ENG_HALL_01,39.77,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-26T03:00:00,ENG_HALL_01,46.05,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-26T04:00:00,ENG_HALL_01,40.05,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-26T05:00:00,ENG_HALL_01,37.56,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-26T06:00:00,ENG_HALL_01,43.95,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-26T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-26T08:00:00,ENG_HALL_01,60.0,47,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-26T09:00:00,ENG_HALL_01,100.2,79,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-26T10:00:00,ENG_HALL_01,143.04,133,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-26T11:00:00,ENG_HALL_01,171.93,158,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-26T12:00:00,ENG_HALL_01,197.33,188,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-26T13:00:00,ENG_HALL_01,232.2,195,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-26T14:00:00,ENG_HALL_01,212.92,215,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-26T15:00:00,ENG_HALL_01,207.35,194,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-26T16:00:00,ENG_HALL_01,181.34,161,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-26T17:00:00,ENG_HALL_01,141.23,124,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-26T18:00:00,ENG_HALL_01,98.9,64,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-26T19:00:00,ENG_HALL_01,69.71,22,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-26T20:00:00,ENG_HALL_01,44.37,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-26T21:00:00,ENG_HALL_01,41.37,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-26T22:00:00,ENG_HALL_01,120.26,0,False,HVAC,Pneumatic control air compressor duty cycle at 95% due to ruptured damper seal on Floor 4.,True
+2026-10-26T23:00:00,ENG_HALL_01,114.02,0,False,HVAC,Pneumatic control air compressor duty cycle at 95% due to ruptured damper seal on Floor 4.,True
+2026-10-27T00:00:00,ENG_HALL_01,127.26,0,False,HVAC,Pneumatic control air compressor duty cycle at 95% due to ruptured damper seal on Floor 4.,True
+2026-10-27T01:00:00,ENG_HALL_01,114.42,0,False,HVAC,Pneumatic control air compressor duty cycle at 95% due to ruptured damper seal on Floor 4.,True
+2026-10-27T02:00:00,ENG_HALL_01,114.54,0,False,HVAC,Pneumatic control air compressor duty cycle at 95% due to ruptured damper seal on Floor 4.,True
+2026-10-27T03:00:00,ENG_HALL_01,125.73,0,False,HVAC,Pneumatic control air compressor duty cycle at 95% due to ruptured damper seal on Floor 4.,True
+2026-10-27T04:00:00,ENG_HALL_01,122.24,0,False,HVAC,Pneumatic control air compressor duty cycle at 95% due to ruptured damper seal on Floor 4.,True
+2026-10-27T05:00:00,ENG_HALL_01,120.86,0,False,HVAC,Pneumatic control air compressor duty cycle at 95% due to ruptured damper seal on Floor 4.,True
+2026-10-27T06:00:00,ENG_HALL_01,43.24,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-27T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-27T08:00:00,ENG_HALL_01,80.78,45,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-27T09:00:00,ENG_HALL_01,97.4,80,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-27T10:00:00,ENG_HALL_01,135.78,113,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-27T11:00:00,ENG_HALL_01,183.91,159,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-27T12:00:00,ENG_HALL_01,201.56,200,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-27T13:00:00,ENG_HALL_01,218.62,196,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-27T14:00:00,ENG_HALL_01,219.31,222,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-27T15:00:00,ENG_HALL_01,205.17,186,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-27T16:00:00,ENG_HALL_01,166.5,160,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-27T17:00:00,ENG_HALL_01,148.23,112,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-27T18:00:00,ENG_HALL_01,94.29,85,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-27T19:00:00,ENG_HALL_01,69.28,27,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-27T20:00:00,ENG_HALL_01,41.33,1,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-27T21:00:00,ENG_HALL_01,44.37,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-27T22:00:00,ENG_HALL_01,40.38,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-27T23:00:00,ENG_HALL_01,41.21,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-28T00:00:00,ENG_HALL_01,46.41,1,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-28T01:00:00,ENG_HALL_01,43.15,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-28T02:00:00,ENG_HALL_01,41.15,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-28T03:00:00,ENG_HALL_01,42.57,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-28T04:00:00,ENG_HALL_01,42.42,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-28T05:00:00,ENG_HALL_01,43.77,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-28T06:00:00,ENG_HALL_01,35.96,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-28T07:00:00,ENG_HALL_01,60.0,15,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-28T08:00:00,ENG_HALL_01,65.91,24,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-28T09:00:00,ENG_HALL_01,113.4,82,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-28T10:00:00,ENG_HALL_01,142.7,132,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-28T11:00:00,ENG_HALL_01,186.44,148,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-28T12:00:00,ENG_HALL_01,210.09,197,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-28T13:00:00,ENG_HALL_01,230.61,206,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-28T14:00:00,ENG_HALL_01,221.99,209,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-28T15:00:00,ENG_HALL_01,205.0,182,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-28T16:00:00,ENG_HALL_01,189.06,173,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-28T17:00:00,ENG_HALL_01,137.04,128,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-28T18:00:00,ENG_HALL_01,92.25,79,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-28T19:00:00,ENG_HALL_01,84.17,26,True,MIXED,Normal operational daytime profile; HVAC and academic lighting active.,False
+2026-10-28T20:00:00,ENG_HALL_01,41.01,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-28T21:00:00,ENG_HALL_01,41.52,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-28T22:00:00,ENG_HALL_01,40.27,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
+2026-10-28T23:00:00,ENG_HALL_01,40.74,0,False,BASELOAD,Normal after-hours idle state; baseline servers and safety systems.,False
