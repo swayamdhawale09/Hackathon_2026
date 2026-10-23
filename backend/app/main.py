@@ -31,10 +31,25 @@ app = FastAPI(
     version="0.2.0",
 )
 
-# Enable CORS for local Vite dashboard and development
+# Configure CORS to explicitly allow deployed Vercel frontend, preview domains, and local dev
+import os
+
+ALLOWED_ORIGINS = [
+    "https://hackathon-2026-umber.vercel.app",
+    "http://localhost:5173",
+    "http://localhost:3000",
+    "http://127.0.0.1:5173",
+    "http://127.0.0.1:3000",
+]
+
+env_origins = os.getenv("CORS_ORIGINS", "")
+if env_origins:
+    ALLOWED_ORIGINS.extend([origin.strip() for origin in env_origins.split(",") if origin.strip()])
+
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],
+    allow_origins=ALLOWED_ORIGINS,
+    allow_origin_regex=r"https://.*\.vercel\.app",
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

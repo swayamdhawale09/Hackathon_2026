@@ -3,7 +3,9 @@
  * Connects frontend to the FastAPI backend endpoints.
  */
 
-const API_BASE = '/api';
+const RAW_BASE = import.meta.env.VITE_API_BASE_URL || 'http://localhost:8000';
+const BASE_URL = RAW_BASE.replace(/\/+$/, '');
+const API_BASE = BASE_URL.endsWith('/api') ? BASE_URL : `${BASE_URL}/api`;
 
 export async function fetchHealth() {
   const res = await fetch(`${API_BASE}/health`);
